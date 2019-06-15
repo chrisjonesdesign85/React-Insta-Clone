@@ -1,7 +1,5 @@
 import React from 'react'
-
 import { Input } from 'reactstrap'
-
 const CommentSection = props => {
     console.log(props.comments)
     return (
